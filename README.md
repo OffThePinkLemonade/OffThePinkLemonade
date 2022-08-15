@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OffThePinkLemonade
 - 👀 I’m interested in money... Just kidding.
-- 🌱 I’m currently learning Monogame.
+- 🌱 I’m currently learning Pygame and c++.
 - 📫 How to reach me: i got discord, Paswarrior#1589.
 I like making applications to prank my friends.
 I also like game dev.
